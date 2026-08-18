@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "use-design-md": {
+      "source": "CaesiumY/ko-design-md",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/use-design-md/SKILL.md",
+      "computedHash": "55423ec2ef87461a5b1f7a07964122e7c33380453f3697ca4a1ab626994a75b9"
+    }
+  }
+}

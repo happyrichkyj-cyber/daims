@@ -1,0 +1,10 @@
+# API 키가 담긴 파일은 절대 올라가면 안 된다 (환경변수로만 넣는다)
+.env
+.env.*
+!.env.example
+
+node_modules
+.data
+.agents
+skills-lock.json
+README.md

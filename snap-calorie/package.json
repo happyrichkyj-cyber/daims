@@ -1,0 +1,13 @@
+{
+  "name": "snap-calorie",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "사진 한 장으로 칼로리를 추정하는 모바일 웹앱",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.70.1"
+  }
+}
